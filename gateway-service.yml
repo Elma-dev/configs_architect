@@ -1,6 +1,6 @@
-
-spring:
+server:
   port: 9090
+spring:
   cloud:
     gateway:
       globalcors:
